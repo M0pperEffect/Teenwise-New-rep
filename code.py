@@ -1,3 +1,4 @@
+print("focusing on the number '5'")
 number=int(float(input("Enter a number")))
 divisor=number%5
 print(f'Your remainder is {divisor}')
